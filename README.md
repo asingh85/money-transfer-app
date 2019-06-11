@@ -73,6 +73,6 @@ Application starts a jetty server on localhost port 8080 An H2 in memory databas
    "toAccountId":2
 }
 ```
-###TODO
+### TODO
 - Migrate to MongoDB and implement Paxos.
 - Enrich the API to include calls like revert the amount in case of failure.
